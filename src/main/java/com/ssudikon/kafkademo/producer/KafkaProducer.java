@@ -1,5 +1,6 @@
 package com.ssudikon.kafkademo.producer;
 
+import com.ssudikon.kafkademo.payload.Student;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.core.KafkaTemplate;
